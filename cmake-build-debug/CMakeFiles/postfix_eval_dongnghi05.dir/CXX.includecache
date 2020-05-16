@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/tmp/postfix-eval-dongnghi05/evaluator.cpp
+evaluator.h
+/tmp/postfix-eval-dongnghi05/evaluator.h
+
+/tmp/postfix-eval-dongnghi05/evaluator.h
+string
+-
+
+/tmp/postfix-eval-dongnghi05/main.cpp
+evaluator.h
+/tmp/postfix-eval-dongnghi05/evaluator.h
+cmath
+-
+iostream
+-
+iomanip
+-
+string
+-
+queue
+-
+
